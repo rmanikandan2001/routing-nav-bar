@@ -1,0 +1,14 @@
+.ani{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.tiee{
+    margin-left: 100%;
+
+}
+
+.animal li{
+    text-decoration: none;
+}
